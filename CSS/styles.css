@@ -15,7 +15,7 @@
 }
 
 /* .bio-box img {
-    width: 100%;
+    width: 100%;update
 } */
 
 /* .bio-box h3{
@@ -30,8 +30,9 @@
 {
     background-color: #84f1b5;
     font-size: 24px;
-    margin: 300px;
-    max-width: scroll;
+    height: 300px;
+    overflow: scroll;
+    /* max-width: scroll; */
 }
 .bio-wrapper:after
 {
@@ -42,3 +43,19 @@
    clear: both;
    height: 0;
 }
+
+.social-list 
+{
+    list-style: none;
+  padding: 0px;
+}
+.social-list >li
+{
+   display: inline-block;
+    color: red;
+}
+/* .social-link
+{
+    display: inline-block;
+    color: green;
+} */
