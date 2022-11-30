@@ -44,6 +44,13 @@
    height: 0;
 }
 
+
+/* .social-link
+{
+    display: inline-block;
+    color: green;
+} */
+
 .social-list 
 {
     list-style: none;
@@ -54,8 +61,3 @@
    display: inline-block;
     color: red;
 }
-/* .social-link
-{
-    display: inline-block;
-    color: green;
-} */
