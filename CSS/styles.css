@@ -64,6 +64,17 @@
 .social-list >li
 {
    display: inline-block;
-    color: red;
+    background: #01d301;
+    width: 3.5em;
+    height: 3.5em;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 1.25em;
+    font-size: 1em;
+    line-height: 1;
+
+}
+.social-lis a{
+    text-decoration: none;
 }
 
